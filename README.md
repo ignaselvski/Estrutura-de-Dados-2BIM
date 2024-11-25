@@ -1,6 +1,6 @@
 ## Alice :desktop_computer:
 Por: João Vitor da Rosa Ignacio
-   Bruno Leite
+Bruno Leite
 
   O programa roda dentro de uma classe principal chamada menu, a classe se procupa em mostrar ao usuário os
 resultados das opções na tela e também de receber comandos.
